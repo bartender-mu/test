@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bartender-mu.github.io/test/</loc>
+    <lastmod>2023-02-13T12:07:13-08:00</lastmod>
+  </url><url>
+    <loc>https://bartender-mu.github.io/test/pentesting/</loc>
+    <lastmod>2023-02-13T12:07:13-08:00</lastmod>
+  </url><url>
+    <loc>https://bartender-mu.github.io/test/hello-world/</loc>
+    <lastmod>2023-02-11T19:16:51-08:00</lastmod>
+  </url><url>
+    <loc>https://bartender-mu.github.io/test/tags/</loc>
+    <lastmod>2023-02-11T19:16:51-08:00</lastmod>
+  </url><url>
+    <loc>https://bartender-mu.github.io/test/tags/update/</loc>
+    <lastmod>2023-02-11T19:16:51-08:00</lastmod>
+  </url><url>
+    <loc>https://bartender-mu.github.io/test/categories/</loc>
+  </url>
+</urlset>

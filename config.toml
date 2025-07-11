@@ -1,0 +1,4 @@
+baseURL = 'https://bartender-mu.github.io/test/'
+languageCode = 'en-us'
+title = 'Hugo With Layer Zero'
+theme = 'nostyleplease'
